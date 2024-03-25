@@ -4,7 +4,8 @@ public class Main {
         ArrayList<Integer> list = new ArrayList<Integer>();
         for(int i=0; i<100; i++){
             list.add(i+1);
-            System.out.println("Test");
+            System.out.println("Test123123");
         }
     }
 }
+//2주차_과제_주영
