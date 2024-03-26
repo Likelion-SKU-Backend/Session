@@ -8,3 +8,4 @@ public class Main {
         }
     }
 }
+//2주차_과제_주영
