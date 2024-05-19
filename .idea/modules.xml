@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Session.iml" filepath="$PROJECT_DIR$/Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppproject.iml" filepath="$PROJECT_DIR$/ppproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ppproject.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ppproject.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ppproject.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ppproject.test.iml" />
     </modules>
   </component>
 </project>
